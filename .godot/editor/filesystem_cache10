@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1773797738
+::res://::1773799264
 icon.svg::CompressedTexture2D::7341381336787156578::1773797445::1773797466::1::::<><><>0<>0<>0fd02801be7186271a301cca90044559<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.gd::GDScript::8392241730262293044::1773799040::0::1::::<>Area2D<><>0<>0<><>::
 ::res://assets/::1773797744
-::res://assets/images/::1773797744
+::res://assets/images/::1773797747
 playerShip1_blue.png::CompressedTexture2D::6220225255245600694::1773797743::1773797747::1::::<><><>0<>0<>887fc1b36b75dfd5a691a3e42671ff49<>res://.godot/imported/playerShip1_blue.png-49429a06e0d4ad53ac8a49500da3476e.ctex::
 playerShip1_green.png::CompressedTexture2D::4841472889511390808::1773797743::1773797747::1::::<><><>0<>0<>234db7fec282a2bb1f044f66199cccb2<>res://.godot/imported/playerShip1_green.png-2a4745c7b8786f4771e0e8b5c29b7088.ctex::
 playerShip1_orange.png::CompressedTexture2D::8919296434263019955::1773797743::1773797747::1::::<><><>0<>0<>33a32693008b7580cc012fca50ae1acd<>res://.godot/imported/playerShip1_orange.png-aafb36e4c4c22a2b96c9dda7f7e391c9.ctex::
@@ -19,7 +20,7 @@ ufoBlue.png::CompressedTexture2D::370001523299967134::1773797744::1773797746::1:
 ufoGreen.png::CompressedTexture2D::7580167747590344939::1773797744::1773797746::1::::<><><>0<>0<>dbbff3944f79c3181ba309bb333b2731<>res://.godot/imported/ufoGreen.png-8a38eef41a9e462f941598a5a2ed21a6.ctex::
 ufoRed.png::CompressedTexture2D::6473087754561504307::1773797744::1773797746::1::::<><><>0<>0<>6f354b9249104637678905939f45e233<>res://.godot/imported/ufoRed.png-48b824d26851ca817dbd27efbdf1f02e.ctex::
 ufoYellow.png::CompressedTexture2D::8899529184478424429::1773797744::1773797746::1::::<><><>0<>0<>b3d6aac2a79448582fb57297c421cede<>res://.godot/imported/ufoYellow.png-5ca746035e8b9051ea12050fee9f7805.ctex::
-::res://assets/images/Damage/::1773797739
+::res://assets/images/Damage/::1773797748
 playerShip1_damage1.png::CompressedTexture2D::542264727764274118::1773797738::1773797748::1::::<><><>0<>0<>1c2cb78447742dc4159340312537c1db<>res://.godot/imported/playerShip1_damage1.png-7704f821fff6e1c3410bf8cb5f7e3e01.ctex::
 playerShip1_damage2.png::CompressedTexture2D::3568414120527779424::1773797739::1773797748::1::::<><><>0<>0<>208206924b3e8cd16f4dc22caad0b02d<>res://.godot/imported/playerShip1_damage2.png-2e63285ef682910b3e5436659fdeb064.ctex::
 playerShip1_damage3.png::CompressedTexture2D::1096185106351233517::1773797739::1773797748::1::::<><><>0<>0<>33893f967aa81a585c7b1d066221045e<>res://.godot/imported/playerShip1_damage3.png-c33e7baef4e9c393f9bd3f18b47021b5.ctex::
@@ -29,7 +30,7 @@ playerShip2_damage3.png::CompressedTexture2D::4858353752319645836::1773797739::1
 playerShip3_damage1.png::CompressedTexture2D::6364318356820068455::1773797739::1773797748::1::::<><><>0<>0<>e74ee5fdbd3aa85d358cbafbf0157b95<>res://.godot/imported/playerShip3_damage1.png-f84cc74c6024f73d51fa515dbd8647c1.ctex::
 playerShip3_damage2.png::CompressedTexture2D::58976277135524471::1773797739::1773797748::1::::<><><>0<>0<>7da864bfc571dc8840976cc6b087f943<>res://.godot/imported/playerShip3_damage2.png-d8b20a7923e47a131d31e9043c53c2c1.ctex::
 playerShip3_damage3.png::CompressedTexture2D::65883648213731360::1773797739::1773797747::1::::<><><>0<>0<>f1705e6cec22f96cd0a86f8841bc7fc4<>res://.godot/imported/playerShip3_damage3.png-1b3d3f6b14b7e315cb369edaf58ba8b3.ctex::
-::res://assets/images/Effects/::1773797740
+::res://assets/images/Effects/::1773797748
 fire00.png::CompressedTexture2D::1023937885791403585::1773797739::1773797747::1::::<><><>0<>0<>cf831691cdc85e070e3bab92492efa05<>res://.godot/imported/fire00.png-24a93a22d2bc821ac4d0209b022b8813.ctex::
 fire01.png::CompressedTexture2D::5910129566034012244::1773797739::1773797747::1::::<><><>0<>0<>19c398f068869e6964738d6f85414824<>res://.godot/imported/fire01.png-73405aa9d28e495d813c9178f054a717.ctex::
 fire02.png::CompressedTexture2D::4507866276714944086::1773797739::1773797747::1::::<><><>0<>0<>dcb341256081737e55584b17ed4707a7<>res://.godot/imported/fire02.png-5561f7f165feac6c2f42c170989e20c8.ctex::
@@ -57,7 +58,7 @@ speed.png::CompressedTexture2D::461042596446206939::1773797740::1773797748::1:::
 star1.png::CompressedTexture2D::3747794346280886755::1773797740::1773797748::1::::<><><>0<>0<>4855ade9302e86fea914f83963a794ab<>res://.godot/imported/star1.png-cb3b574e4ba369c65ba98fe804d7c89c.ctex::
 star2.png::CompressedTexture2D::6172750265472240202::1773797740::1773797748::1::::<><><>0<>0<>6e9b195d67c5e0909ebea1a270487378<>res://.godot/imported/star2.png-ec560cadec9d5bf4123068e9174353c1.ctex::
 star3.png::CompressedTexture2D::2110625134708614398::1773797740::1773797748::1::::<><><>0<>0<>05ec4b2bc4ebbfcaa6e8d6ac6106b0af<>res://.godot/imported/star3.png-bf9ded75d6ac19b7ca19d1793135723e.ctex::
-::res://assets/images/Enemies/::1773797741
+::res://assets/images/Enemies/::1773797748
 enemyBlack1.png::CompressedTexture2D::6201201353426765783::1773797740::1773797748::1::::<><><>0<>0<>59775b1f5e94e514e86c59272ed1d888<>res://.godot/imported/enemyBlack1.png-bce139c7a9403a9811a08e3a390efd67.ctex::
 enemyBlack2.png::CompressedTexture2D::1781966522434514794::1773797740::1773797748::1::::<><><>0<>0<>1a2697acc001272ac7e0ce5e9e128343<>res://.godot/imported/enemyBlack2.png-f0ef88a7cf63131e2c3098e92959d499.ctex::
 enemyBlack3.png::CompressedTexture2D::2719813460204101497::1773797740::1773797747::1::::<><><>0<>0<>5c50d91720f6d922f687e5d13455c536<>res://.godot/imported/enemyBlack3.png-44339253f7323fba4604cc036f06729e.ctex::
@@ -78,7 +79,7 @@ enemyRed2.png::CompressedTexture2D::8292798806272090158::1773797741::1773797747:
 enemyRed3.png::CompressedTexture2D::1276848070123690291::1773797741::1773797747::1::::<><><>0<>0<>d803066fa2d388305c065a991a145dda<>res://.godot/imported/enemyRed3.png-0079eef28ab7a5fe97db0239cb3b72f6.ctex::
 enemyRed4.png::CompressedTexture2D::1488854950624878288::1773797741::1773797747::1::::<><><>0<>0<>3438a20e04126c44f0c012d0648b1498<>res://.godot/imported/enemyRed4.png-e0a3f62e076ee06c15b34f5f647e2924.ctex::
 enemyRed5.png::CompressedTexture2D::2407371665106903701::1773797741::1773797747::1::::<><><>0<>0<>465cac719278a936cba3b69fb5dec02e<>res://.godot/imported/enemyRed5.png-bf35a199e30a328fd5fb45a57e80fb20.ctex::
-::res://assets/images/Lasers/::1773797742
+::res://assets/images/Lasers/::1773797749
 laserBlue01.png::CompressedTexture2D::2617331252883137395::1773797741::1773797747::1::::<><><>0<>0<>828e6b26e9ede840b265deccd4e2c433<>res://.godot/imported/laserBlue01.png-a081fc5d40a598b1b5663c967dbe8b76.ctex::
 laserBlue02.png::CompressedTexture2D::3029027063509673824::1773797741::1773797747::1::::<><><>0<>0<>0b6b53ff0954253245423e86c3aa40e7<>res://.godot/imported/laserBlue02.png-e804e86b99874615d8b4d100901ee7a6.ctex::
 laserBlue03.png::CompressedTexture2D::2879041527968754201::1773797741::1773797747::1::::<><><>0<>0<>e208a07f9c7b32b0b04187af82d01c3f<>res://.godot/imported/laserBlue03.png-6e4eaf89b825412cc08d9d0175749ddb.ctex::
@@ -127,7 +128,7 @@ laserRed13.png::CompressedTexture2D::3470848060926400612::1773797742::1773797749
 laserRed14.png::CompressedTexture2D::1679232174929802311::1773797742::1773797749::1::::<><><>0<>0<>25e72b497de1348207e036291c4d8c2e<>res://.godot/imported/laserRed14.png-9a8675840c9e9a786c92892104c27e08.ctex::
 laserRed15.png::CompressedTexture2D::6166273570510583674::1773797742::1773797749::1::::<><><>0<>0<>d51026ad30d03f8b650fde97c66b589d<>res://.godot/imported/laserRed15.png-a2b116aafd29bb93d10a176188e5ddf6.ctex::
 laserRed16.png::CompressedTexture2D::3925150667440591527::1773797742::1773797749::1::::<><><>0<>0<>0ab8e10f6f1a95eeada5ab7c1e77d40e<>res://.godot/imported/laserRed16.png-3c9a78a517b27fba6c85f61f832514c7.ctex::
-::res://assets/images/Meteors/::1773797742
+::res://assets/images/Meteors/::1773797749
 meteorBrown_big1.png::CompressedTexture2D::1558448025936556583::1773797742::1773797749::1::::<><><>0<>0<>e96576281cf4e44b99d93540a2e9f049<>res://.godot/imported/meteorBrown_big1.png-a83ad41fdcd0464577c9d9156cbaecd7.ctex::
 meteorBrown_big2.png::CompressedTexture2D::2825835612111902441::1773797742::1773797749::1::::<><><>0<>0<>cc253c72dd8450f49e35efe044985344<>res://.godot/imported/meteorBrown_big2.png-3d138af39b87e8fbf9f80fe1550ab802.ctex::
 meteorBrown_big3.png::CompressedTexture2D::3356841254271466109::1773797742::1773797749::1::::<><><>0<>0<>040e105ac9860f642bcdb7d138320b48<>res://.godot/imported/meteorBrown_big3.png-a42c8fbe1bc0e6977fdb7d2bbb3ac16b.ctex::
@@ -148,7 +149,7 @@ meteorGrey_small1.png::CompressedTexture2D::8080285439523067977::1773797742::177
 meteorGrey_small2.png::CompressedTexture2D::3097309503458813578::1773797742::1773797748::1::::<><><>0<>0<>d90ef4779c0982f639c21f6b9d3310b8<>res://.godot/imported/meteorGrey_small2.png-c119f585a7afbdf40345d161b02978ec.ctex::
 meteorGrey_tiny1.png::CompressedTexture2D::669384250240028117::1773797742::1773797748::1::::<><><>0<>0<>44111407f5feacc0e3d4d2d84c9a0e31<>res://.godot/imported/meteorGrey_tiny1.png-6674657425eceeeac82df931318ce0b1.ctex::
 meteorGrey_tiny2.png::CompressedTexture2D::8635480759326737591::1773797742::1773797748::1::::<><><>0<>0<>3f33b93127179fe2e2fc421bdf0e084e<>res://.godot/imported/meteorGrey_tiny2.png-5f752c940a7077d3086aa2af4edc13be.ctex::
-::res://assets/images/Parts/::1773797743
+::res://assets/images/Parts/::1773797748
 beam0.png::CompressedTexture2D::1480742742803467936::1773797742::1773797748::1::::<><><>0<>0<>08bec3e16a7dbba1f24e8f9571e19a28<>res://.godot/imported/beam0.png-a29422e343bfe16698a2968e2bb6f6ce.ctex::
 beam1.png::CompressedTexture2D::6336266141163771963::1773797742::1773797748::1::::<><><>0<>0<>540c76852208c7c5d2c4b106f3b893cf<>res://.godot/imported/beam1.png-54cc65e8824a2e57019cef97f481e0a1.ctex::
 beam2.png::CompressedTexture2D::3110293466766920054::1773797742::1773797748::1::::<><><>0<>0<>5da678d184eb3e506b09600df1fab8ed<>res://.godot/imported/beam2.png-aa3cba60f1afa98084c7a7fd3204d4e6.ctex::
@@ -243,7 +244,7 @@ wingYellow_4.png::CompressedTexture2D::2493886718067803156::1773797743::17737977
 wingYellow_5.png::CompressedTexture2D::5788819759140766096::1773797743::1773797746::1::::<><><>0<>0<>392462164e37cf196476cf24326b472d<>res://.godot/imported/wingYellow_5.png-9f68c485fc2c6b526551d69beaa0ac2e.ctex::
 wingYellow_6.png::CompressedTexture2D::3002561028349018019::1773797743::1773797746::1::::<><><>0<>0<>0be97bfbb3e923be3369e00173ff026a<>res://.godot/imported/wingYellow_6.png-a9bbc3dad1b41e1c4ae56dcc29c538aa.ctex::
 wingYellow_7.png::CompressedTexture2D::4638363971637821300::1773797743::1773797746::1::::<><><>0<>0<>8c0f68fe9304e6be0612a5feeade6046<>res://.godot/imported/wingYellow_7.png-02ec4289751b46dee5575cb564bb5d6b.ctex::
-::res://assets/images/Power-ups/::1773797744
+::res://assets/images/Power-ups/::1773797747
 bold_silver.png::CompressedTexture2D::3206055397411472611::1773797743::1773797746::1::::<><><>0<>0<>dcfd98f0ab8a348f9d000ac19d896bd7<>res://.godot/imported/bold_silver.png-ea55a9e3b7e382b817e0e77fa62f53ad.ctex::
 bolt_bronze.png::CompressedTexture2D::4154408936782712144::1773797743::1773797746::1::::<><><>0<>0<>ffbff9c9f8d84cf6e513e49743e7482b<>res://.godot/imported/bolt_bronze.png-d0bb2a5f8fdcd85f1e7314958b430e4c.ctex::
 bolt_gold.png::CompressedTexture2D::5630830680803165324::1773797743::1773797746::1::::<><><>0<>0<>8794890f3c7030545eb3ef356511dee0<>res://.godot/imported/bolt_gold.png-48cd33c0fe4eabff3ce51951b27bb3e8.ctex::
@@ -276,7 +277,7 @@ star_silver.png::CompressedTexture2D::5679667702166939986::1773797744::177379774
 things_bronze.png::CompressedTexture2D::8200705958954565380::1773797744::1773797747::1::::<><><>0<>0<>60e604de1bc771329bec4243b0cc997b<>res://.godot/imported/things_bronze.png-9bd8ee4db38da76a2b9247413e747846.ctex::
 things_gold.png::CompressedTexture2D::2352375880634612606::1773797744::1773797747::1::::<><><>0<>0<>029d32bc72ae1a987028ddb411c9e7bf<>res://.godot/imported/things_gold.png-a008c6dd4514abfb41f7fb341c51b15f.ctex::
 things_silver.png::CompressedTexture2D::5050715534399868903::1773797744::1773797747::1::::<><><>0<>0<>71cfa8feddca8685a05635a64f87e9c5<>res://.godot/imported/things_silver.png-0ce5bc5efb117c03a41b4198169b8369.ctex::
-::res://assets/images/UI/::1773797744
+::res://assets/images/UI/::1773797747
 buttonBlue.png::CompressedTexture2D::7590759386798175172::1773797744::1773797747::1::::<><><>0<>0<>0de914b0e0d0c62879dd3b71f87b69af<>res://.godot/imported/buttonBlue.png-e7cd2dad50b5548ee54daffa760fd6b6.ctex::
 buttonGreen.png::CompressedTexture2D::3859219023807746916::1773797744::1773797747::1::::<><><>0<>0<>734d7308146853bd129673d4dea2f1a1<>res://.godot/imported/buttonGreen.png-46f8bc0220f9f8db28331c01ceb82723.ctex::
 buttonRed.png::CompressedTexture2D::3057907447039863035::1773797744::1773797747::1::::<><><>0<>0<>6e67fe20b75822ab683606b030e43833<>res://.godot/imported/buttonRed.png-e839d3e237cbb8c8ac107e585734e288.ctex::
@@ -305,7 +306,7 @@ playerLife3_blue.png::CompressedTexture2D::4038782353365933862::1773797744::1773
 playerLife3_green.png::CompressedTexture2D::7039285748316752527::1773797744::1773797746::1::::<><><>0<>0<>aea25d753920affc1a688d372f530b23<>res://.godot/imported/playerLife3_green.png-009f726046e9f37fa995b62a4210cc4e.ctex::
 playerLife3_orange.png::CompressedTexture2D::1063841847296574044::1773797744::1773797747::1::::<><><>0<>0<>dc0113a9261bfa7b0bfd995b301d0494<>res://.godot/imported/playerLife3_orange.png-90e483172ced818d0acd31071ced3b2d.ctex::
 playerLife3_red.png::CompressedTexture2D::2276677690625875736::1773797744::1773797747::1::::<><><>0<>0<>27614bc9394987ce9edbbd11a1697dcb<>res://.godot/imported/playerLife3_red.png-309ca6fe8519458e61fa24df4dc9f33f.ctex::
-::res://assets/music/::1773797744
+::res://assets/music/::1773797745
 Alone Against Enemy.ogg::AudioStreamOggVorbis::1855947282955977099::1773797744::1773797745::1::::<><><>0<>0<>95cf83fa3eefccea1edd8a7bfdbe1940<>res://.godot/imported/Alone Against Enemy.ogg-127c05b2643b6e91a74602e54a08af7d.oggvorbisstr::
 Battle in the Stars.ogg::AudioStreamOggVorbis::3261798198166820495::1773797744::1773797745::1::::<><><>0<>0<>ffd54f0303785806d2a9ec07d4c5c701<>res://.godot/imported/Battle in the Stars.ogg-bce0471c24834f2f82931825aa2737c2.oggvorbisstr::
 Brave Pilots (Menu Screen).ogg::AudioStreamOggVorbis::6645816197787117629::1773797744::1773797745::1::::<><><>0<>0<>0982127034dd06f624febc01e0365f26<>res://.godot/imported/Brave Pilots (Menu Screen).ogg-b20753b7607e91feb35876d0e088acc6.oggvorbisstr::
@@ -316,6 +317,10 @@ SkyFire (Title Screen).ogg::AudioStreamOggVorbis::4593712478563788815::177379774
 Space Heroes.ogg::AudioStreamOggVorbis::6708573355392482286::1773797744::1773797745::1::::<><><>0<>0<>8eff004eb51c8ed6de1338bdc04e1132<>res://.godot/imported/Space Heroes.ogg-7f8871b67d46fe37ae7b1c27da279152.oggvorbisstr::
 Victory Tune.ogg::AudioStreamOggVorbis::559415119290005762::1773797744::1773797745::1::::<><><>0<>0<>5418d4dfffbeb67bc311d8295ac38d36<>res://.godot/imported/Victory Tune.ogg-760393e53fe7033a77fa69ec138cf020.oggvorbisstr::
 Without Fear.ogg::AudioStreamOggVorbis::5581131901071552299::1773797744::1773797745::1::::<><><>0<>0<>b2bdf4976887fcad4f37b39aa834fb82<>res://.godot/imported/Without Fear.ogg-38a250c2b176923dbd634e58a8519b26.oggvorbisstr::
-::res://assets/sound effects/::1773797744
+::res://assets/sound effects/::1773797749
 laser-45816.wav::AudioStreamWAV::920188752147475948::1773797744::1773797749::1::::<><><>0<>0<>7a1dc4ea4bae60996c2c172af077cb06<>res://.godot/imported/laser-45816.wav-1c3776cbc3812936d24505b3e36cc2d3.sample::
 loud-explosion-sound-425458.mp3::AudioStreamMP3::1054613416254693810::1773797744::1773797745::1::::<><><>0<>0<>edf1b139bf73fca92d089867e9f50eae<>res://.godot/imported/loud-explosion-sound-425458.mp3-045439f53152a326a25262b1e6cf0ddb.mp3str::
+::res://scenes/::1773798491
+game.tscn::PackedScene::3125351579484934819::1773798491::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::8970024154670890716::1773799248::0::1::::<><><>0<>0<><>::uid://drti83om6pc7e::::res://player.gd<>uid://dr7kc1cgd7tqm::::res://assets/images/playerShip1_red.png
+::res://scripts/::1773799263

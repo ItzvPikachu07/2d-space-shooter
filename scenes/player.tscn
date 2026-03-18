@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://d02e8tkp3pbfw"]
+
+[ext_resource type="Script" uid="uid://drti83om6pc7e" path="res://player.gd" id="1_0s3u6"]
+[ext_resource type="Texture2D" uid="uid://dr7kc1cgd7tqm" path="res://assets/images/playerShip1_red.png" id="2_qm0ti"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_qm0ti"]
+radius = 12.0
+height = 76.0
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_fhbv5"]
+radius = 15.0
+height = 96.0
+
+[node name="player" type="Area2D" unique_id=1520123541]
+script = ExtResource("1_0s3u6")
+
+[node name="ship" type="Sprite2D" parent="." unique_id=35542626]
+rotation = 1.5707964
+texture = ExtResource("2_qm0ti")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1593858721]
+position = Vector2(0, -1)
+rotation = 1.5707964
+shape = SubResource("CapsuleShape2D_qm0ti")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="." unique_id=342549171]
+position = Vector2(-10, 0)
+shape = SubResource("CapsuleShape2D_fhbv5")
