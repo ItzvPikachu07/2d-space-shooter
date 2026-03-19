@@ -6,7 +6,7 @@
 [node name="Game" type="Node2D" unique_id=1050205359]
 
 [node name="player" parent="." unique_id=1520123541 instance=ExtResource("1_uwrxv")]
-position = Vector2(15, 21)
+position = Vector2(60, 43)
 scale = Vector2(0.5, 0.5)
 script = ExtResource("2_yqjtg")
 speed = 7

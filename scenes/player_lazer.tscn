@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://c4fql4jgrancn"]
+
+[ext_resource type="Texture2D" uid="uid://ca3u4rykkkmhr" path="res://assets/images/Lasers/laserRed01.png" id="1_hf36u"]
+[ext_resource type="Script" uid="uid://bb6tdc28rn7xp" path="res://scripts/player_lazer.gd" id="1_rvlg1"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_rvlg1"]
+radius = 4.0
+height = 52.0
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_yn25l"]
+radius = 4.0
+height = 52.0
+
+[node name="player lazer" type="Area2D" unique_id=629083310]
+scale = Vector2(0.5, 0.5)
+script = ExtResource("1_rvlg1")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=730630801]
+rotation = 1.5707964
+texture = ExtResource("1_hf36u")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=25922964]
+rotation = 1.5707964
+shape = SubResource("CapsuleShape2D_rvlg1")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="." unique_id=506462242]
+position = Vector2(1, 0)
+rotation = 1.5707964
+shape = SubResource("CapsuleShape2D_yn25l")
