@@ -2,3 +2,5 @@ res://scenes/game.tscn
 res://scenes/player.gd
 res://scenes/player_lazer.tscn
 res://scripts/player_lazer.gd
+res://scenes/enemy.tscn
+res://scripts/enemy.gd
